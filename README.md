@@ -6,7 +6,7 @@ INTERMEDIO.
 ## Presentación
 Hola, Soy Tracy Moriano.
 Apasionada por la tecnología y con muchas ganas de seguir aprendiendo y mejorando mis habilidades en desarrollo web.
-Este proyecto forma parte de mi proceso de inducción al bootcamp, donde pondré en práctica conocimientos básicos de HTML, CSS y JavaScript.
+Este proyecto forma parte de mi proceso de inducción al bootcamp, donde pondré en práctica conocimientos básicos de HTML, CSS y JavaScript. 
 
 ## Proyecto
 Este repositorio contiene una aplicación web sencilla que permite al usuario ingresar su nombre y recibir un saludo personalizado al hacer clic en un botón.
