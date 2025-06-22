@@ -1,7 +1,7 @@
 /* Fuente y fondo */
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #f0f4f8;
+  background-color: rgba(23, 31, 194, 0.3);
   margin: 0;
   padding: 0;
   height: 100vh;
@@ -12,7 +12,7 @@ body {
  
 /* Contenedor centrado */
 .container {
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.3);
   padding: 30px 40px;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
@@ -23,7 +23,7 @@ body {
 
 /* Título */
 h1 {
-  color: #333;
+  color: #ffffff;
   margin-bottom: 20px;
 }
 
@@ -34,14 +34,14 @@ input[type="text"] {
   max-width: 300px;
   border: 1px solid #ccc;
   border-radius: 8px;
-  font-size: 16px;
-  margin-bottom: 15px;
+  font-size: 15px;
+  margin-bottom: 16px;
 }
 
 /* Botón */
 button {
   padding: 10px 20px;
-  background-color: #4CAF50;
+  background-color: rgba(23, 31, 194, 0.3);
   color: white;
   font-size: 16px;
   border: none;
@@ -51,12 +51,12 @@ button {
 }
 
 button:hover {
-  background-color: #45a049;
+  background-color: rgba(23, 31, 194, 0.3);
 }
 
 /* Mensaje */
 #mensaje {
   margin-top: 20px;
   font-size: 17px;
-  color: #555;
+  color: #656565;
 }
