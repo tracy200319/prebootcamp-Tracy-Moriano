@@ -1,4 +1,12 @@
 # PreBootcamp - Tracy Nicole Moriano Tuanama
+<table>
+    <tr>
+        <td align="center" style="width: 25%;">
+            <img src="img/Imagen01.jpg" style="width: 100%; height: auto;"/>  
+            <br><strong>Tracy Moriano</strong>
+        </td>
+    </tr>
+</table>
 
 ## Nivel
 INTERMEDIO.
