@@ -20,6 +20,14 @@ Este repositorio contiene una aplicación web sencilla que permite al usuario in
 El objetivo es reforzar los fundamentos del desarrollo web creando una experiencia interactiva básica.
 
 ## Archivos
+- `README.md`: Información descriptiva del proyecto y cómo ejecutarlo.
 - `index.html`: Contiene la estructura principal del sitio web.
 - `app.js`: Contiene la lógica en JavaScript para capturar el nombre y mostrar el saludo personalizado.
-- `README.md`: Información descriptiva del proyecto y cómo ejecutarlo.
+- `diseño.css`: Estilo visual del proyecto.
+
+## Preguntas del Formulario
+- `¿Qué rol tiene el Product Owner?`
+
+- `¿Para qué sirve el Daily Scrum?`
+
+- `¿Qué es un Sprint?`
