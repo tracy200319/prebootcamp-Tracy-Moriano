@@ -28,10 +28,10 @@ El objetivo es reforzar los fundamentos del desarrollo web creando una experienc
 
 ## Preguntas del Formulario
 - ¿QUÉ ROL TIENE EL PRODUCT OWNER? <br> 
-Es el responsable de definir lo que se debe hacer en el proyecto, prioriza las tareas y se asegura de que el producto entregue valor al cliente.
-<br>
+Es el responsable de definir lo que se debe hacer en el proyecto, prioriza las tareas y se asegura de que el producto entregue valor al cliente. <br>
+
 - ¿PARA QUÉ SIRVE EL DAILY SCRUM? <br>
-Sirve para que el equipo comparta qué hizo ayer, qué hará hoy y si tiene algún impedimento. Es una reunión rápida de coordinación diaria.
-<br>
+Sirve para que el equipo comparta qué hizo ayer, qué hará hoy y si tiene algún impedimento. Es una reunión rápida de coordinación diaria. <br>
+
 - ¿QUÉ ES UN SPRINT? <br>
 Es un período corto donde el equipo trabaja para completar un conjunto de tareas y entregar un resultado funcional.
