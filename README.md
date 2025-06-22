@@ -12,10 +12,10 @@ INTERMEDIO.
 
 ## Presentación
 Hola, Soy Tracy Moriano. <br>
-Apasionada por la tecnología y con muchas ganas de seguir aprendiendo y mejorando mis habilidades en desarrollo web.
+Apasionada por la tecnología, con muchas ganas de seguir aprendiendo y mejorando mis habilidades en desarrollo web.
 
 ## Proyecto
-Este repositorio contiene una aplicación web sencilla que permite al usuario ingresar su nombre y recibir un saludo personalizado al hacer clic en un botón.
+Este repositorio contiene una aplicación web sencilla, pero atractiva, que permite al usuario ingresar su nombre y recibir un saludo personalizado al presionar en un botón.
 
 ## Archivos
 - `README.md`: Información descriptiva del proyecto y cómo ejecutarlo.
