@@ -27,7 +27,7 @@ El objetivo es reforzar los fundamentos del desarrollo web creando una experienc
 - `img`: Recursos gráficos (imágenes). 
 
 ## Preguntas del Formulario
-- `¿Qué rol tiene el Product Owner?`
+- `¿Qué rol tiene el Product Owner?` <br> 
 Es el responsable de definir lo que se debe hacer en el proyecto, prioriza las tareas y se asegura de que el producto entregue valor al cliente.
 
 - `¿Para qué sirve el Daily Scrum?`
