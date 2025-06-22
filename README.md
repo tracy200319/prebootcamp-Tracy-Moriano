@@ -1,9 +1,10 @@
 # PreBootcamp - Tracy Nicole Moriano Tuanama
-<table>
+<table align="center">
     <tr>
-        <td align="center" style="width: 25%;">
-            <img src="img/fototracy.jpeg" style="width: 55%; height: auto;"/>  
-            <br><strong>Tracy Moriano</strong>
+        <td align="center" style="width: 25%; border: none; box-shadow: none;">
+            <img src="img/fototracy.jpeg" style="width: 70px; height: auto; border: none; box-shadow: none; display: block; margin: 0 auto;"/>
+            <br>
+            <strong>Tracy Moriano</strong>
         </td>
     </tr>
 </table>
