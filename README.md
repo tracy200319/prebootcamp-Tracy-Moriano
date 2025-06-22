@@ -2,7 +2,7 @@
 <table>
     <tr>
         <td align="center" style="width: 25%;">
-            <img src="img/fototracy.jpeg" style="width: 70%; height: auto;"/>  
+            <img src="img/fototracy.jpeg" style="width: 55%; height: auto;"/>  
             <br><strong>Tracy Moriano</strong>
         </td>
     </tr>
